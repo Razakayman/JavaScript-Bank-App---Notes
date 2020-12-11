@@ -1,1 +1,2 @@
 # JavaScript-Bank-App---Notes
+This is an advanced JavaScript ES6 course I'm following and one of the projects we're working on is a bank app. This part of the course taught many important additions to my skillset in JavaScript such as working with array methods like split, reduce, find, etc. This contains all of the notes I wrote in the comments to demonstrate my learning knowledge and grasp of the new concepts being introduced.
